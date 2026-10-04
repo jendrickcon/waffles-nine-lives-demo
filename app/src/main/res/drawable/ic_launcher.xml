@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Original placeholder icon: Waffle's orange face. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <path android:fillColor="#2B2540" android:pathData="M0,0h96v96h-96z" />
+    <path android:fillColor="#FF9A2E" android:pathData="M16,44 L24,10 L46,28 Z" />
+    <path android:fillColor="#FF9A2E" android:pathData="M80,44 L72,10 L50,28 Z" />
+    <path android:fillColor="#FF9FB2" android:pathData="M24,36 L27,20 L38,29 Z" />
+    <path android:fillColor="#FF9FB2" android:pathData="M72,36 L69,20 L58,29 Z" />
+    <path android:fillColor="#FF9A2E" android:pathData="M12,52 a36,32 0 1,0 72,0 a36,32 0 1,0 -72,0" />
+    <path android:fillColor="#FFE3B8" android:pathData="M32,68 a16,11 0 1,0 32,0 a16,11 0 1,0 -32,0" />
+    <path android:fillColor="#2A1A0E" android:pathData="M29,52 a4,5 0 1,0 8,0 a4,5 0 1,0 -8,0" />
+    <path android:fillColor="#2A1A0E" android:pathData="M59,52 a4,5 0 1,0 8,0 a4,5 0 1,0 -8,0" />
+    <path android:fillColor="#FF9FB2" android:pathData="M44,62 L52,62 L48,67 Z" />
+</vector>
